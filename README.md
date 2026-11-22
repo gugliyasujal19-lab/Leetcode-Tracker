@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/gugliyasujal19-lab/Leetcode-Tracker/tree/master/0387-first-unique-character-in-a-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/gugliyasujal19-lab/Leetcode-Tracker/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## Queue
 |  |
 | ------- |
