@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gugliyasujal19-lab/Leetcode-Tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/gugliyasujal19-lab/Leetcode-Tracker/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/gugliyasujal19-lab/Leetcode-Tracker/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/gugliyasujal19-lab/Leetcode-Tracker/tree/master/0414-third-maximum-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gugliyasujal19-lab/Leetcode-Tracker/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/gugliyasujal19-lab/Leetcode-Tracker/tree/master/1920-build-array-from-permutation) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gugliyasujal19-lab/Leetcode-Tracker/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/gugliyasujal19-lab/Leetcode-Tracker/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/gugliyasujal19-lab/Leetcode-Tracker/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
