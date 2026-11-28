@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/gugliyasujal19-lab/Leetcode-Tracker/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/gugliyasujal19-lab/Leetcode-Tracker/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/gugliyasujal19-lab/Leetcode-Tracker/tree/master/0485-max-consecutive-ones) |
+| [0643-maximum-average-subarray-i](https://github.com/gugliyasujal19-lab/Leetcode-Tracker/tree/master/0643-maximum-average-subarray-i) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/gugliyasujal19-lab/Leetcode-Tracker/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/gugliyasujal19-lab/Leetcode-Tracker/tree/master/1920-build-array-from-permutation) |
 ## Simulation
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/gugliyasujal19-lab/Leetcode-Tracker/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/gugliyasujal19-lab/Leetcode-Tracker/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
